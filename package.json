@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bulma": "^0.9.4",
-    "core-js": "^3.8.3",
+    "core-js": "^3.30.2",
     "vue": "^3.2.13"
   },
   "devDependencies": {
